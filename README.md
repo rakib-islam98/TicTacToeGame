@@ -26,7 +26,7 @@ This is a classic **Tic Tac Toe** game built with **Java Swing**. The project in
 
 ## ✅ Instructions
 
-- Download the source files from `https://github.com/rakib-islam98/TicTacToeGame/tree/main/SourceCode` this repo.
+- Download the source files from <a href="https://github.com/rakib-islam98/TicTacToeGame/tree/main/SourceCode"> this repo.
 - Organize it by folloing the project structure.
 - Explore and modify the project as you like.
 - Create a .jar file.
