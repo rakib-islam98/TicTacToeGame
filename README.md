@@ -16,13 +16,13 @@ This is a classic **Tic Tac Toe** game built with **Java Swing**. The project in
 ## 🎨 Screenshots
 
 ### Main Menu
-<img src="Screenshots/MainMenu.png" alt="MainMenu" width="600"/>
+<img src="Screenshots/MainMenu.png" alt="MainMenu" width="300"/>
 
 ### Level Selection
-<img src="Screenshots/LevelSelection.png" alt="LevelSelection" width="600"/>
+<img src="Screenshots/LevelSelection.png" alt="LevelSelection" width="300"/>
 
 ### Gameplay
-<img src="Screenshots/Gameplay.png" alt="Gameplay" width="600"/>
+<img src="Screenshots/Gameplay.png" alt="Gameplay" width="300"/>
 
 ## ✅ Instructions
 
